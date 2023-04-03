@@ -1,0 +1,23 @@
+License/Terms and Conditions of Use
+
+Welcome to Astratify Go, a Spotify music downloader app. By using this app, you agree to the following terms and conditions:
+
+1. Proper Use: Astratify Go is provided solely for personal, non-commercial purposes. You must not use this application to download music for resale or any other commercial purpose without the express consent of the copyright holders.
+
+2. User Responsibility: You are responsible for any use you make of Astratify Go. By using this application, you guarantee that you have the necessary rights to download and use the music that is downloaded.
+
+3. Intellectual property: Copyrights, trademarks and other intellectual property rights in Astratify Go and in the music downloaded through the application are the property of their respective owners. You acknowledge and agree that you do not have the right to use any of these intellectual properties without the express consent of their owners.
+
+4. Modifications: We reserve the right to modify or discontinue Astratify Go at any time without notice. We also reserve the right to change these terms and conditions at any time. It is your responsibility to regularly review these terms and conditions to be aware of any changes.
+
+5. Disclaimer: Astratify Go is provided "as is" without warranties of any kind, either express or implied. We are not responsible for any damages arising from the use or inability to use this application.
+
+6. Applicable Law: These terms and conditions shall be governed by and construed in accordance with the laws of [country or state], without giving effect to any principles of conflicts of laws.
+
+7. Arbitration: Any dispute or controversy arising out of the use of Astratify Go shall be resolved by binding arbitration in accordance with the applicable commercial arbitration rules.
+
+8. Severability: If any provision of these terms and conditions is held invalid or unenforceable, such provision will be construed in a manner consistent with applicable law to reflect as closely as possible the original intent of the provision, and the remaining provisions will remain valid and applicable.
+
+9. Entire Agreement: These terms and conditions constitute the entire agreement between you and us with respect to the use of Astratify Go and supersede all prior or contemporaneous agreements and communications, whether written or oral.
+
+By using Astratify Go, you agree to these terms and conditions in their entirety. If you do not agree to these terms and conditions, you may not use this application.
