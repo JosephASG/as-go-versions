@@ -18,8 +18,14 @@ public.key
 
 updater/
 config.json 
+config.txt
+asgo.crt
+key.pem
 
 serviceAccountKey.json
 
 tmp/
 versions/
+
+cert.pfx
+Astratify-Go_Setup.exe
